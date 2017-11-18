@@ -14,7 +14,7 @@
 
 3 ipython-notebook
   Python 是一个 python 的交互式 shell，比默认的python shell 好用得多，支持变量自动补全，自动缩进，支持 bash shell 命令，内置了许多很有用的功能和函数。
-
+  http://www.dongwm.com/archives/ipythonde-xie-gao-ji-yong-fa/
 3.python在北醒的主要作用
   链接：
   https://www.cnblogs.com/nxld/p/6058998.html
