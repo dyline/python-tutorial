@@ -3,6 +3,20 @@
 
 1.python 是什么
    解释性的脚本语言，应用范围，
-   WEB-
+   
    特点 
    排行
+
+2.python 使用的方式 
+  python 2.7 
+  python 3.*
+  ipython
+
+3 ipython-notebook
+  Python 是一个 python 的交互式 shell，比默认的python shell 好用得多，支持变量自动补全，自动缩进，支持 bash shell 命令，内置了许多很有用的功能和函数。
+
+3.python在北醒的主要作用
+  链接：
+  https://www.cnblogs.com/nxld/p/6058998.html
+ 
+  1.数据处理
